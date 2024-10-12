@@ -1,0 +1,32 @@
+p {
+color: gold;
+font-family: bold;
+}
+h1 {
+    color: gold;
+}
+body{
+    background-color: black;
+}
+img{
+    border: solid gold 5px;
+}
+h2 {
+    color: gold;
+}
+li{
+    color:gold;
+}
+a{
+    color:gold;
+}
+button {
+    background-color:gold;
+}
+summary {
+    color:gold;
+}
+mark{
+    color:black;
+    background-color:gold;
+}
